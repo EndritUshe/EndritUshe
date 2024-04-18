@@ -9,8 +9,30 @@
 
 
  [![Your Repository's Stats](https://github-readme-stats.vercel.app/api/pin/?username=EndritUshe&repo=backend-menu-app&&theme=tokyonight&custom_title_color=8A2BE2&custom_text_color=8A2BE2)](https://github.com/EndritUshe/backend-menu-app)
-\n\n
- [![Your Repository's Stats](https://github-readme-stats.vercel.app/api/pin/?username=EndritUshe&repo=front-menu-app&&theme=tokyonight&custom_title_color=8A2BE2&custom_text_color=8A2BE2)](https://github.com/EndritUshe/front-menu-app)
-\n\n
 
+ [![Your Repository's Stats](https://github-readme-stats.vercel.app/api/pin/?username=EndritUshe&repo=front-menu-app&&theme=tokyonight&custom_title_color=8A2BE2&custom_text_color=8A2BE2)](https://github.com/EndritUshe/front-menu-app)
+
+
+
+### Backend 🦾:
+
+- [![Java][Java-sheild]][Java-url]
+- [![Spring Boot][SpringBoot-sheild]][SpringBoot-url]
+
+ ### Frontend 🖥️:
+
+- [![CSS3][CSS3-sheild]][CSS3-url]
+- [![ReactJS][ReactJS-sheild]][ReactJS-url]
+- [![Material UI][MaterialUI-sheild]][MaterialUI-url]
+- [![JavaScript][JavaScript-sheild]][JavaScript-url]
+
+
+### Database 🗃️:
+
+- [![MySql][MySql-sheild]][MySql-url]
+
+ ### Testing Tools ⚙️:
+
+- [![Postman][Postman-sheild]][Postman-url]
+- [![Swagger][Swagger-sheild]][Swagger-url]
 
