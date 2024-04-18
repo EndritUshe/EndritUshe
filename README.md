@@ -8,8 +8,7 @@
 ### Recent Projects 🔰
 
 
-[![Back-End Part](https://github-readme-stats.vercel.app/api/pin/?username=EndritUshe&repo=backend-menu-app&&theme=light&custom_title_color=8A2BE2&custom_text_color=8A2BE2&description=This%20repository%20hosts%20the%20backend%20code%20for%20a%20menu%20)]
-(https://github.com/EndritUshe/backend-menu-app)
+[![Your Repository's Stats](https://github-readme-stats.vercel.app/api/pin/?username=EndritUshe&repo=backend-menu-app&&theme=light&custom_title_color=8A2BE2&custom_text_color=8A2BE2)](https://github.com/EndritUshe/backend-menu-app)
 
  [![Your Repository's Stats](https://github-readme-stats.vercel.app/api/pin/?username=EndritUshe&repo=front-menu-app&&theme=light&custom_title_color=8A2BE2&custom_text_color=8A2BE2)](https://github.com/EndritUshe/front-menu-app)
 
