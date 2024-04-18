@@ -58,3 +58,6 @@
 [ReactJS-sheild]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff
 [ReactJS-url]: https://reactjs.org/
 [Swagger-sheild]: https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=fff
+[Swagger-url]: https://swagger.io/
+[Postman-sheild]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff
+[Postman-url]: https://www.postman.com/
