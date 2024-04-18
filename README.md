@@ -10,7 +10,7 @@
 <div width="100%" align="center"><a href="https://github.com/EndritUshe/front-menu-app" align="left"><img align="left" width="45%" /></a></div>
 
 
-- [![Your Repository's Stats](https://github-readme-stats.vercel.app/api/pin/?username=EndritUshe&repo=front-menu-app&&theme=tokyonight&custom_title_color=8A2BE2&custom_text_color=8A2BE2)](https://github.com/EndritUshe/backend-menu-app)
+- [![Your Repository's Stats](https://github-readme-stats.vercel.app/api/pin/?username=EndritUshe&repo=backend-menu-app&&theme=tokyonight&custom_title_color=8A2BE2&custom_text_color=8A2BE2)](https://github.com/EndritUshe/backend-menu-app)
 
 - [![Your Repository's Stats](https://github-readme-stats.vercel.app/api/pin/?username=EndritUshe&repo=front-menu-app&&theme=tokyonight&custom_title_color=8A2BE2&custom_text_color=8A2BE2)](https://github.com/EndritUshe/front-menu-app)
 
