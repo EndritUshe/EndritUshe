@@ -10,4 +10,4 @@
 <div width="100%" align="center"><a href="https://github.com/EndritUshe/front-menu-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elio-Aliaj&repo=Automated-Website-and-CMS&theme=tokyonight&title_color=bf91f3&text_color=5682cd&border_radius=18&border=FBFAD1&bg_color=60%2C000017%2C00285F&locale=en" /></a></div>
 
 
-[![Your Repository's Stats](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepository&theme=tokyonight)](https://github.com/EndritUshe/front-menu-app)
+[![Your Repository's Stats](https://github-readme-stats.vercel.app/api/pin/?username=EndritUshe&repo=front-menu-app&theme=prussian)](https://github.com/EndritUshe/front-menu-app)
